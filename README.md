@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kenneth ! Programmer</a>, <a href="https://www.linkedin.com/in/kenneth-calloway-titan1209/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Kenneth !  <a href="https://www.linkedin.com/in/kenneth-calloway-titan1209/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
